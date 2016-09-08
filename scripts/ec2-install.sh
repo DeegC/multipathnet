@@ -10,7 +10,6 @@ sudo pip install numpy
 sudo yum -y install boost-devel
 
 sudo yum -y install git
-#sudo yum groupinstall "Development Tools"
 sudo yum -y install automake
 
 wget https://github.com/google/glog/archive/v0.3.3.zip
